@@ -22,7 +22,7 @@ export default class App extends Component {
             percentIRPF: 0,
             liquidSalary: 0.0,
             style: 'scale-transition scale-out',
-            backgroundImage: require('./Assets/img/background.jpg')
+            backgroundImage: require('./Assets/Img/background.jpg')
         }
     }
 
