@@ -3,7 +3,7 @@ import './App.css';
 
 import InputFullSalary from "./Components/InputFullySalary/InputFullSalary";
 import InputDiscounts from "./Components/InputDiscounts/InputDiscounts";
-import InputLiquid from "./Components/InputLiquid/InputLiqui";
+import InputLiquid from "./Components/InputLiquid/InputLiquid";
 
 import * as helpers from './Helpers/Helpers';
 import Bar from "./Components/Bar/Bar";
