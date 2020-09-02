@@ -2,7 +2,7 @@
 /node_modules/
 
 
-src/*
+src/**
 public/*
 build/static/css/*.map
 build/static/js/*.map
