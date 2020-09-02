@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import {findStyle} from "../../helpers/css";
-import {formatter} from "../../helpers/Helpers";
+import {findStyle} from "../../Helpers/css";
+import {formatter} from "../../Helpers/Helpers";
 
 export default class InputLiquid extends Component {
     render() {

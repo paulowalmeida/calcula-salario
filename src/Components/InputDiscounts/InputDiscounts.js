@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Input from "../input/Input";
+import Input from "../Input/Input";
 
 export default class InputDiscounts extends Component {
     render() {

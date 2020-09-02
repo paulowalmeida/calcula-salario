@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 import './App.css';
 
-import InputFullSalary from "./components/InputFullySalary/InputFullSalary";
-import InputDiscounts from "./components/InputDiscounts/InputDiscounts";
-import InputLiquid from "./components/InputLiquid/InputLiquid";
+import InputFullSalary from "./Components/InputFullySalary/InputFullSalary";
+import InputDiscounts from "./Components/InputDiscounts/InputDiscounts";
+import InputLiquid from "./Components/InputLiquid/InputLiqui";
 
-import * as helpers from './helpers/Helpers';
-import Bar from "./components/bar/Bar";
+import * as helpers from './Helpers/Helpers';
+import Bar from "./Components/Bar/Bar";
 
 export default class App extends Component {
     constructor() {
@@ -22,7 +22,7 @@ export default class App extends Component {
             percentIRPF: 0,
             liquidSalary: 0.0,
             style: 'scale-transition scale-out',
-            backgroundImage: require('./assets/img/background.jpg')
+            backgroundImage: require('./Assets/img/background.jpg')
         }
     }
 
