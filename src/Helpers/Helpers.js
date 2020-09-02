@@ -47,7 +47,7 @@ export const baseIRPF = (baseINSS, percentINSS) => {
     return round(baseINSS - percentINSS);
 }
 
-export const liquidSalary = (baseIRPF, percentIRPF) =>{
+export const liquid = (baseIRPF, percentIRPF) =>{
     return round(baseIRPF - percentIRPF);
 }
 
